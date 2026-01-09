@@ -9,7 +9,7 @@ This code was employed to create the plots in Martínez-Henares et al. (2025) ht
 
 An example of the type of images that can be created is shown below.
 
-![](https://github.com/amarhen/plot_fits/main/example.png?raw=true)
+![](https://github.com/amarhen/plot_fits/blob/main/example.png?raw=true)
 
 ## How to use the code
 
