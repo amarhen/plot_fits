@@ -9,7 +9,7 @@ You will also need to measure the RMS noise of your image with one of these tool
 
 Packages needed: astropy, numpy, matplotlib, Regions (https://pypi.org/project/regions/).
 
-This code was employed to create the plots in Martínez-Henares et al. (2025) https://ui.adsabs.harvard.edu/abs/2025A%26A...699A.382M/abstract 
+This code was employed to create the plots in Martínez-Henares et al. (2025) https://ui.adsabs.harvard.edu/abs/2025A%26A...699A.382M/abstract . If you use this code for your research, a mention in your publication is much appreciated.
 
 An example of the type of images that can be created is shown below.
 
