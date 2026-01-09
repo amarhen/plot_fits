@@ -5,6 +5,12 @@ This simple code creates plots in matplotlib from FITS files. Multiple plots can
 
 Packages needed: astropy, numpy, matplotlib, Regions (https://pypi.org/project/regions/).
 
+This code was employed to create the plots in Martínez-Henares et al. (2025) https://ui.adsabs.harvard.edu/abs/2025A%26A...699A.382M/abstract 
+
+An example of the type of images that can be created is shown below.
+
+![](https://github.com/amarhen/plot_fits/main/example.png?raw=true)
+
 ## How to use the code
 
 To use this code, first the options have to be edited in the code, and then run.
