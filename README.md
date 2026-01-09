@@ -3,6 +3,10 @@ Tool to plot one or more FITS files in raster/contour maps.
 
 This simple code creates plots in matplotlib from FITS files. Multiple plots can be overlaid (e.g. raster + contours). Custom options include plotting the synthesized beam, scalebars, Regions, trimmed colormaps, masking, colored contours, etc.
 
+Your FITS files must come from elsewhere. If you want to plot moment-zero images from a FITS cube, you have to produce it with another software, e.g. CASA/CARTA.
+
+You will also need to measure the RMS noise of your image with one of these tools if you are interested in plotting contours.
+
 Packages needed: astropy, numpy, matplotlib, Regions (https://pypi.org/project/regions/).
 
 This code was employed to create the plots in Martínez-Henares et al. (2025) https://ui.adsabs.harvard.edu/abs/2025A%26A...699A.382M/abstract 
