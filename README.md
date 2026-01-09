@@ -17,7 +17,7 @@ An example of the type of images that can be created is shown below.
 
 ## How to use the code
 
-To use this code, first the options have to be edited in the code, and then run.
+To use this code, first the options have to be edited in the code, and then run. Typically you should only be editing lines 520 and below.
 
 The `plot_fits.py` file is the code itself, and it includes a working example of how it should be used. The best way to make sure that you can use the code is to reuse the example I provide with your own files and custom options. 
 
